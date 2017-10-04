@@ -140,3 +140,7 @@ To see a list of every image we support, check out the Emoji Cheat Sheet.
 Last updated Jan 15, 2014
 GitHub is the best way to build and ship software.
 Powerful collaboration, code review, and code management for open source and private projects.
+
+**Source:**
+
+https://guides.github.com/features/mastering-markdown/
